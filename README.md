@@ -107,7 +107,7 @@ For such conversions as “instruction-code” and “code-instruction”, you c
 	
 + [MIPS instruction converter][3] usage example:
 
-	![MIPS converter](https://github.com/vsilchuk/Verilog_HDL_single_cycle_MIPS_processor/blob/master/img/mips_converter.PNG "MIPS converter")
+	![MIPS converter](https://github.com/vsilchuk/Verilog_HDL_single_cycle_MIPS_processor/blob/master/img/mips_converter.png "MIPS converter")
 
 ---
 
