@@ -38,7 +38,7 @@ In my case, the simulation could be started by executing the `vsim -do sim.do` c
 
 You can use the [MARS simulator][2] to test the operation of code written in the MIPS assembler language.
 
-After that, you can manually convert the assembler listing instructions to 32-bit machine code instructions, and then add them to the binary file — `instructions.bin` — that will be read by the processor instruction memory module.
+After that, you can manually convert the assembler listing instructions to 32-bit machine code instructions, and then add them to the binary file — `instr_test_mips_bam.bin` — that will be read by the processor instruction memory module.
 
 For such conversions as “instruction-code” and “code-instruction”, you can use [this site][3].
 
